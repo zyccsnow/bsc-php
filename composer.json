@@ -1,6 +1,6 @@
 {
-    "name": "fenguoz/bsc-php",
-    "description": "Support Binance's BNB and BEP20, which include functions such as address creation, balance query, transaction transfer, query the latest blockchain, query information based on the blockchain, and query information based on the transaction hash",
+    "name": "zyccsnow/bsc-php",
+    "description": "Fork from fenguoz/bsc-php 2.2.1",
     "keywords": [
         "php",
         "binance",
@@ -8,12 +8,12 @@
         "bep20"
     ],
     "type": "library",
-    "homepage": "https://github.com/Fenguoz/bsc-php",
+    "homepage": "https://github.com/zyccsnow/bsc-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Fenguoz",
-            "email": "243944672@qq.com"
+            "name": "zyccsnow",
+            "email": "yuheng19882014@gmail.com"
         }
     ],
     "require": {
